@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1712793600&v=beta&t=1ONGgK2bRt1RDzej0-AQ3gOAiKhpLnL0_3LHbgF_yM0)
 <h1 align="center">Hi 👋, I'm Jason Bayford</h1>
 <h3 align="center">A passionate full stack developer from South-Africa</h3>
 <img src="https://cdn.dribbble.com/users/1202163/screenshots/14698609/media/2fa117d401285187adf8dc8f78d94cb2.gif" alt="grogu" width="400" align="right" />
